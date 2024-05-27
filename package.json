@@ -1,0 +1,25 @@
+{
+  "name": "zeroid",
+  "version": "0.9.2",
+  "description": "Privacy-oriented lightweight identity infrastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swipelux-team/zeroid-sdk.git"
+  },
+  "keywords": [
+    "identity",
+    "zeroid",
+    "backend",
+    "zk"
+  ],
+  "author": "Vladislav Simanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swipelux-team/zeroid-sdk/issues"
+  },
+  "homepage": "https://github.com/swipelux-team/zeroid-sdk#readme"
+}
